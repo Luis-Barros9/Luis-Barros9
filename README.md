@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey👋
+My name is Luis and i´m currently in my last year of my bachlor´s degree in Software Engeneer.
+I´m currently trying to improve my knowledge about Java, python and Haskell.
+
+Contact: luisvlbarros@gmail.com
+
 
 <!--
 **Luis-Barros9/Luis-Barros9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
