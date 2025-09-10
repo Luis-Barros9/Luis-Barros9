@@ -4,10 +4,10 @@ My name is Luis and i´m currently pursuing my master´s degree in Software Enge
 
 ### Skills
 
-Frontend: JavaScript,HTML+CSS,React,Vue
-Backend: Python, Node.js, Java, C, Haskell
-Database: MongoDB,PostgreSQL
-
+- **Frontend**: JavaScript,HTML+CSS,React,Vue
+- **Backend**: Python, Node.js, Java, C, Haskell
+- **Database**: MongoDB,PostgreSQL
+- **DevOps & Cloud**: Kubernetes, Docker, Ansible
 
 📨Contact: luisvlbarros@gmail.com
 
